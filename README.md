@@ -1,3 +1,7 @@
 # About me
 
-I'm a Web Developer with passion for new technologies.
+I'm a Web Developer who loves to code
+┏━┳┓╋╋┏━┳━┓
+┃━┫┗┳┳┫━┫━┫
+┣━┃┏┫┃┃┏┫┏┛
+┗━┻━┻━┻┛┗┛  with ❤
