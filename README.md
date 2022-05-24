@@ -1,6 +1,6 @@
 # About me
 
-I'm a Web Developer who loves to code<br>
+I'm a Web Developer coding<br>
 ┏━┳┓╋╋┏━┳━┓<br>
 ┃━┫┗┳┳┫━┫━┫<br>
 ┣━┃┏┫┃┃┏┫┏┛<br>
